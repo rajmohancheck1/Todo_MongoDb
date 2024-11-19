@@ -10,7 +10,7 @@
     "todo",
     "crud"
   ],
-  "author": "Jahid Hiron",
+  "author": "Raj Mohan",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
